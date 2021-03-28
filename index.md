@@ -26,7 +26,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://www.youtube.com/c/SviatlanaBalybina) and ![Image](src)
+[https://www.youtube.com/c/SviatlanaBalybina](https://www.youtube.com/c/SviatlanaBalybina) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
