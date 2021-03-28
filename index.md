@@ -2,6 +2,8 @@
 Hi, my name is Sviatlana!
 This page is about Quiet Book. So you'll probably see here a bunch of [tutorials](https://youtube.com/playlist?list=PLr2wmVAEZTZx45jpburhVRnt9rGNgzhGV) about how to make it,  and [reviews](https://youtube.com/playlist?list=PLr2wmVAEZTZxRYKseXi4LT7djDj--kDd1) of my finished books. Enjoy it!
 
+My [Instagram](<a href="https://logo-logos.com/instagram-logo-159.html"><img src="https://logo-logos.com/wp-content/uploads/2016/10/Instagram_icon.png" alt="Instagram icon, logo" /></a>
+)
 You can use the [editor on GitHub](https://github.com/balybina/hello-world-course/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
