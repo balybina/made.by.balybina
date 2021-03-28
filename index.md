@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to made.by.balybina
+Hi, my name is Sviatlana!
+This page is about Quiet Book. So you'll probably see here a bunch of tutorials about how to make it,  and reviews of my finished books. Enjoy it!
 
 You can use the [editor on GitHub](https://github.com/balybina/hello-world-course/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
