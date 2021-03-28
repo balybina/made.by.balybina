@@ -1,7 +1,7 @@
 ![myLogo](https://user-images.githubusercontent.com/81506198/112748077-c57da680-8fb9-11eb-8bfa-c639e585e538.JPG)
 ## Welcome to made.by.balybina
 Hi, my name is Sviatlana!
-This page is about Quiet Book. So you'll probably see here a bunch of tutorials about how to make it,  and reviews of my finished books. Enjoy it!
+This page is about Quiet Book. So you'll probably see here a bunch of [tutorials](https://youtube.com/playlist?list=PLr2wmVAEZTZx45jpburhVRnt9rGNgzhGV) about how to make it,  and [reviews](https://youtube.com/playlist?list=PLr2wmVAEZTZxRYKseXi4LT7djDj--kDd1) of my finished books. Enjoy it!
 
 You can use the [editor on GitHub](https://github.com/balybina/hello-world-course/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -26,7 +26,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[https://www.youtube.com/c/SviatlanaBalybina](https://www.youtube.com/c/SviatlanaBalybina) and ![Image](src)
+[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
