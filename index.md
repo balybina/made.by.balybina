@@ -4,7 +4,7 @@ This page is about Quiet Book. So you'll probably see here a bunch of [tutorials
 
 
 
-### Privacy polisy
+### Privacy policy
 
 Informationen zum Datenschutz
 1) Information über die Erhebung personenbezogener Daten und Kontaktdaten des Verantwortlichen
