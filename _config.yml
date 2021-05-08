@@ -1,7 +1,3 @@
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-architect
 title: Made by Balybina
 description: Welcome to my Website!!!
-encoding: utf-8
-plugins:
-  - jekyll-include-cache
-  - jekyll-seo-tag
